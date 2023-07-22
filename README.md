@@ -10,3 +10,12 @@ clinicians.<br />
 diagnosis.<br />
 • Automated system can greatly reduce the clinical burden on retina specialists.<br />
 • This also helps to monitor the dynamics of the lesions in a much faster way.<br />
+
+## Why CNN?
+• Feature extraction causing residues.<br />
+• There is no need for a manual feature extraction and separate classifier can be
+replaced with a single network.<br />
+• NPDR stages being misclassified most of the time.<br />
+
+
+
